@@ -20,6 +20,8 @@ A command-line calculator that performs basic arithmetic operations.
 g++ calculator/calculator.cpp -o calculator
 ./calculator
 
+___
+
 ### 2. Dice Simulator
 A program that simulates dice rolls for probability and randomness analysis.
 
