@@ -47,6 +47,7 @@ Features:
 
 g++ dynamic-array/dynamic_array.cpp -o dynamic_array
 ./dynamic_array
+
 ---
 
 ## Technologies Used
